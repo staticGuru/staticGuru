@@ -8,7 +8,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,prisma,flask,githubactions,graphql,fastapi,express,nestjs,opencv" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,prisma,flask,githubactions,graphql,fastapi,express,nestjs,opencv,supabase" />
   </a>
 </p>
 
