@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Kissflow**
 
-- 👨‍💻 All of my projects are available at [Guruvignesh's workspace](https://developer-portfolio-jxym.vercel.app/))
+- 👨‍💻 All of my projects are available at [Guruvignesh's workspace](https://developer-portfolio-jxym.vercel.app/)
 
 - 💬 Ask me about **NodeJS, Python, React, AI/ML**
 
@@ -56,12 +56,6 @@
 
 <br/>
 
-## Skills:
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel" />
-  </a>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guruvignesh-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="staticGuru" height="30" width="40" /></a>
