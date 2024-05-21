@@ -21,6 +21,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=staticGuru&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Guruvignesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=staticGuru&custom_title=Guru's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><be>
+
 <h3 align="left">My Badge Board</h3>
 
 [![An image of @guruvignesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guruvignesh)](https://holopin.io/@guruvignesh)
