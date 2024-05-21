@@ -1,8 +1,6 @@
-<h1 align="center">Hii! My name is Guruvignesh</h1>
-<h2 align="center">A passionate AI Full Stack Developer from India</h2>
-<p align="center" >
- Hey there! I'm Guruvignesh, a 21-year-old enthusiast of web development and programming with a solid skill set in JavaScript, TypeScript, Nodejs, and React. I'm also open to remote work, so don't hesitate to get in touch with me.
-</p>
+<h1 align="center">Hi 👋, I'm Guruvignesh</h1>
+<h2 align="center">A passionate AI Full Stack Developer</h2>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
@@ -14,7 +12,7 @@
 
 - 📫 How to reach me **vigneshguru274@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://linktr.ee/guruvignesh_m))
+- 📄 Know about my experiences [my experiences](https://linktr.ee/guruvignesh_m)
 
 
 <br>
