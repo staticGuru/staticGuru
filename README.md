@@ -21,7 +21,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=staticGuru&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
-## My Badge Board
+<h3 align="left">My Badge Board</h3>
 
 [![An image of @guruvignesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guruvignesh)](https://holopin.io/@guruvignesh)
 <br />
