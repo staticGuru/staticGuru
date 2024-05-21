@@ -13,7 +13,14 @@
 
 <br>
 <br>
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=staticGuru\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=staticGuru&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
 ## My Badge Board
 
 [![An image of @guruvignesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guruvignesh)](https://holopin.io/@guruvignesh)
