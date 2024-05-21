@@ -3,6 +3,22 @@
 <p align="center" >
  Hey there! I'm Guruvignesh, a 21-year-old enthusiast of web development and programming with a solid skill set in JavaScript, TypeScript, Nodejs, and React. I'm also open to remote work, so don't hesitate to get in touch with me.
 </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **Kissflow**
+
+- 👨‍💻 All of my projects are available at [Guruvignesh's workspace](https://developer-portfolio-jxym.vercel.app/))
+
+- 💬 Ask me about **NodeJS, Python, React, AI/ML**
+
+- 📫 How to reach me **vigneshguru274@gmail.com**
+
+- 📄 Know about my experiences [my experiences](https://linktr.ee/guruvignesh_m))
+
+
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
