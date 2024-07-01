@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-![](https://komarev.com/ghpvc/?username=staticGuru)
+
 - 🔭 I’m currently working on **Kissflow**
 
 - 👨‍💻 All of my projects are available at [Guruvignesh's workspace](https://developer-portfolio-jxym.vercel.app/)
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [my experiences](https://linktr.ee/guruvignesh_m)
 
-
+![](https://komarev.com/ghpvc/?username=staticGuru)
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
