@@ -58,7 +58,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Vineet%F0%9F%91%8B;Let's+Connect!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Guruvignesh%F0%9F%91%8B;Let's+Connect!"/>
 </div>
 <p align="left">
 <a href="https://linkedin.com/in/guruvignesh-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="staticGuru" height="30" width="40" /></a>
