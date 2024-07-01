@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-
+![](https://komarev.com/ghpvc/?username=staticGuru)
 - 🔭 I’m currently working on **Kissflow**
 
 - 👨‍💻 All of my projects are available at [Guruvignesh's workspace](https://developer-portfolio-jxym.vercel.app/)
@@ -54,11 +54,18 @@
 
 <br/>
 
+  
+
 <h3 align="left">Connect with me:</h3>
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Vineet%F0%9F%91%8B;Let's+Connect!"/>
+</div>
+
 <p align="left">
 <a href="https://linkedin.com/in/guruvignesh-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="staticGuru" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DevtuneAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="guruvignesh" height="30" width="40" /></a>
 </p>
+
 <br>
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
@@ -72,10 +79,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
 
-![Guruvignesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=staticGuru&custom_title=Guru's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><be>
 
 <h3 align="left">My Badge Board</h3>
 
