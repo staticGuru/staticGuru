@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Guruvignesh's workspace](https://developer-portfolio-jxym.vercel.app/)
 
-- 💬 Ask me about **NodeJS, Python, React, AI/ML, Typescript**
+- 💬 Ask me about **NodeJS, Python, FastAPI, React, AI/ML, Typescript**
 
 - 📫 How to reach me **vigneshguru274@gmail.com**
 
